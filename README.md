@@ -3,7 +3,7 @@
 This project includes implementing a simple message broker. This intermediary computer program module translates a message from the sender's standard messaging protocol to the receiver's formal messaging protocol. In this project, the TCP protocol is used to transfer commands between [server](/server.py) and [client](/client.py).  
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/79719208/196032869-0070369b-8b92-437a-b777-981523384a18.png">
+  <img src="https://user-images.githubusercontent.com/79719208/196032869-0070369b-8b92-437a-b777-981523384a18.png" width=50% height=50%>
 </p>
 
 # Commands
